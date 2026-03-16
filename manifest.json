@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-cortexnova",
+    "name": "CortexNova Sync",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Sync YouTube summaries and voice notes from CortexNova bot to your Obsidian vault",
+    "author": "CortexNova",
+    "authorUrl": "https://cortexnova.app",
+    "isDesktopOnly": false
+}
